@@ -1,0 +1,10 @@
+* cl-gap-buffer
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/stylewarning/cl-gap-buffer.git   |
+| commit  | 4833e6c  |
+| systems | cl-gap-buffer |
+|---------+-------------------------------------------|
+
